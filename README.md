@@ -1,0 +1,1 @@
+Just archiving a random file I found on my HD for posterity. According to the comments, I seem to have picked up a book on clojure and then decided to solve some problems with a SAT solver on a flight to NYC.
